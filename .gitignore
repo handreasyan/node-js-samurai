@@ -22,5 +22,5 @@
 
  *.swp
 
-.env
+/server/.env
 
